@@ -9,7 +9,7 @@ Little Registry Cleaner is an open source program that is designed to cleanup Mi
  * Portable Edition allows you to run it anywhere
  * Manage files that are executed when windows starts
  * Uninstall manager removes traces of deleted software
- * 100% Freeware
+ * 100% Free Software
  * And much more!
  
 ## Licensing
